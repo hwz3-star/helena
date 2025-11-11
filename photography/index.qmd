@@ -1,0 +1,33 @@
+---
+title: "Food + Nature Pics"
+---
+
+Some pics that I took recently of some of the most beautiful views and the most scrumptious food
+
+::: {layout-ncol=2}
+
+![](IMG_1532.jpeg)
+
+Jökulsárlón Glacier Lagoon, Iceland
+
+![](IMG_3421.jpeg)
+
+Blood Orange + Matcha Shaved Ice (Tokyo, Japan)
+
+![](IMG_9493.jpeg)
+
+Northern Lights, Höfn í Hornafirði, Iceland
+
+![](IMG_4231.JPG)
+
+Unagi + Sashimi Platter (Mount Fuji, Japan)
+
+![](IMG_3903.jpeg)
+
+Qianhai Lake, Beijing, China
+
+![](IMG_4847.jpeg)
+
+Salswee Pastries (NYC, New York)
+
+:::

@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/IMG_8649.jpg"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/helenazhaooo/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/helena-zhao71704/
+    - icon: envelope
+      text: Email
+      href: "mailto:hwz3@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Hi! I'm Helena Zhao!!
+
+I am currently a senior pursuing a Bachelor of Science in Biochemistry and a Master of Science in Biostatistics at CWRU.
+
+My research interests lie primarily in pulmonary diseases, and I currently work in a wet lab that studies an inflammatory lipid mediator called cysteinyl leukotrienes, which play a key role in asthma and other immune-related disorders. Through this work, I’ve developed a deep appreciation for how molecular mechanisms connect to patient symptoms and clinical outcomes. Investigating the pathways of inflammation has taught me how research can directly inform new diagnostics and treatments, an intersection that continually inspires me.
+
+Beyond the lab and school, I serve as a Residential Assistant for first-year students and work as a Patient Care Nursing Assistant at the Cleveland Clinic. These roles have given me a window into patient experiences and the teamwork that drives high-quality healthcare.
+
+In my freetime, I love to bake with my friends, go on long hikes, try new foods and restaurants, and play mahjong. 
+
+Please feel free to [contact me](mailto:hwz3@case.edu) if you have any questions or would like to discuss potential projects.
+
+
