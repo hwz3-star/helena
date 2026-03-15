@@ -20,6 +20,8 @@ website:
         href: projects/index.qmd
       - text: "Photography"
         href: photography/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
 
     
     # your social media handles
