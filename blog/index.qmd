@@ -1,5 +1,5 @@
 ---
-title: "How to Be a Modern Scientist Blog"
+title: "Blog"
 listing:
   contents: blog
   sort: "date desc"
