@@ -1,7 +1,25 @@
 ---
-title: "Blog"
+title: "How to Be a Modern Scientist Blog"
 listing:
   contents: blog
   sort: "date desc"
   type: default
 ---
+
+## What I Learned from *How to Be a Modern Scientist*
+
+One of the most interesting things I learned from reading Jeff Leek’s *How to Be a Modern Scientist* is how much the culture of scientific research has changed over time. Before reading this, I mostly thought about science as producing results and eventually publishing them in a journal article. However, the book emphasizes that modern science is much more open and collaborative than that. Instead of only focusing on the final paper, researchers are now encouraged to share the entire process behind their work. This includes data, code, methods, and even early drafts of papers through preprints.
+
+The idea of transparency stood out to me the most. Leek explains that sharing your workflow and analysis openly allows other scientists to understand how your conclusions were reached. This is important because science builds on previous work. If the steps behind a result are hidden or unclear, then it becomes difficult for other researchers to replicate or extend the findings. Transparency helps ensure that research is trustworthy and that other scientists can build upon it more effectively.
+
+Another important concept discussed in the book is reproducibility. Reproducibility means that someone else should be able to take the same data and analysis methods and arrive at the same conclusions. In modern research, this often means sharing code and scripts that were used to analyze data. In fields that rely heavily on statistical analysis or computational models, reproducibility becomes especially important. If the analysis cannot be reproduced, then it becomes harder to know whether the results are reliable or whether they may have been influenced by errors in the analysis.
+
+Reading this also made me think about how technology has changed scientific research. Tools like GitHub, version control systems, and reproducible analysis frameworks make it much easier to document and share research workflows. These tools allow researchers to track changes in their projects, collaborate with others, and ensure that analyses can be reproduced in the future. In many ways, these technologies help support the broader goals of transparency and open science.
+
+Another idea that I found meaningful is the concept of preprints. Preprints allow researchers to share their findings before the work has gone through the full peer-review process. This helps ideas spread more quickly and allows researchers to receive feedback earlier. At first, I wondered whether sharing work before peer review might be risky, but the book argues that it can actually strengthen research because it encourages discussion and improvement before final publication.
+
+As a student learning statistics and research methods, these ideas were particularly interesting to me. Much of modern research involves analyzing complex datasets, which means that statistical methods and computational tools are essential. If researchers do not clearly document how they analyze data, it becomes difficult for others to evaluate the validity of the results. Sharing code and data allows others to verify analyses and learn from them, which ultimately strengthens the scientific process.
+
+This reading also helped me realize that being a scientist today involves more than just conducting experiments or running statistical analyses. It also involves communicating work clearly, collaborating with others, and making research accessible to the broader scientific community. These practices help create a culture where knowledge can grow more quickly and reliably.
+
+Overall, the biggest takeaway for me is that modern science places a strong emphasis on openness, reproducibility, and collaboration. These principles help ensure that research findings are credible and useful for others. As I continue studying statistics and biomedical science, I hope to adopt these practices in my own work by documenting my analyses carefully, sharing data and code when possible, and contributing to a scientific culture that values transparency and collaboration.
