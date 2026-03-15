@@ -1,5 +1,5 @@
 ---
-title: "Reflections on Transparency and Reproducibility in Modern Science"
+title: "Blog"
 date: 2026-03-14
 categories: [science, statistics, research]
 ---
