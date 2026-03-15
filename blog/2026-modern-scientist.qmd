@@ -1,3 +1,9 @@
+---
+title: "Reflections on Transparency and Reproducibility in Modern Science"
+date: 2026-03-14
+categories: [science, statistics, research]
+---
+
 ## What I Learned from *How to Be a Modern Scientist*
 
 
