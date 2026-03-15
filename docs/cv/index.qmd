@@ -1,0 +1,29 @@
+---
+title: "Curriculum vitae"
+format:
+  html:
+    toc: false
+# copy the PDF into the built site at /cv/RESUME431.pdf
+resources:
+  - "RESUME431.pdf"
+---
+
+
+[Download current CV](RESUME431.pdf){.btn .btn-primary .btn-lg}
+
+<!-- Most reliable embed: <object>; shows PDF if the browser supports it,
+     otherwise shows a fallback link. -->
+<object data="RESUME431.pdf#view=FitH"
+        type="application/pdf"
+        width="100%"
+        height="900px">
+  <p>
+    Your browser couldn't display the PDF inline.
+    <a href="RESUME431.pdf" target="_blank" rel="noopener">Open the CV in a new tab</a>.
+  </p>
+</object>
+
+
+
+
+
